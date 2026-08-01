@@ -11,13 +11,14 @@
       type="image/x-icon"
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="stylesheet" href="/assets/css/style.css" />
+    <link rel="stylesheet" href="./public/assets/css/style.css" />
     <link rel="stylesheet" href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" />
   </head>
   <body>
     <header class="header">
-      <a href="/" class="logo">
-       <img src="/assets/images/logo.png" alt="logo">
+    <a href="/" class="logo">
+   <img src="./public/assets/images/logo.png" alt="logo">
+    </a>
         <ul class="navbar">
         <li class="nav-item"><a href="#home" class="nav-link">Início</a></li>
         <li class="nav-item"><a href="#about" class="nav-link">Sobre</a></li>
